@@ -1,0 +1,40 @@
+.IntroBanner{
+    width: 100%;
+    height: calc(80vh - 100px);
+    background: rgb(1,89,127);
+    background: linear-gradient(34deg, rgba(1,89,127,1) 9%, rgba(1,89,127,1) 47%, rgba(0,212,255,1) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .information{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        width: 60%;
+        h1{
+            font-size: 3rem;
+            color: #fefefe;
+            margin-bottom: 30px;
+        }
+        p{
+            font-size: 1.2rem;
+            color: #fefefe;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+        button{
+            width: 50%;
+            height: 3rem;
+            border-radius: 50px;
+            border: none;
+            font-size: 1rem;
+            font-weight: 700;
+            a{
+                text-decoration: none;
+                color: #242424;
+            }
+        }
+
+    }
+}
