@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/keyros-academy/static/css/main.0a0a78e1.css",
+    "main.js": "/keyros-academy/static/js/main.7c78db79.js",
+    "static/media/portrait3.jpg": "/keyros-academy/static/media/portrait3.99c4f9403a9f2239fbc8.jpg",
+    "static/media/Course1.jpg": "/keyros-academy/static/media/Course1.14f31432b85cd91033f9.jpg",
+    "static/media/Course2.jpg": "/keyros-academy/static/media/Course2.897aef99fd362603904d.jpg",
+    "static/media/portrait1.jpg": "/keyros-academy/static/media/portrait1.73bcc4ca5636f56e4461.jpg",
+    "static/media/portait4.jpg": "/keyros-academy/static/media/portait4.2e16ac6b2eec50aab16a.jpg",
+    "static/media/ceo.jpg": "/keyros-academy/static/media/ceo.3a181e17025c0d32e7fa.jpg",
+    "static/media/portrait2.jpg": "/keyros-academy/static/media/portrait2.cc4c9c38d5d41ec91e8b.jpg",
+    "index.html": "/keyros-academy/index.html",
+    "main.0a0a78e1.css.map": "/keyros-academy/static/css/main.0a0a78e1.css.map",
+    "main.7c78db79.js.map": "/keyros-academy/static/js/main.7c78db79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a0a78e1.css",
+    "static/js/main.7c78db79.js"
+  ]
+}
