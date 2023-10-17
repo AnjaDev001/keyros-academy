@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/keyros-academy/static/css/main.0a0a78e1.css",
-    "main.js": "/keyros-academy/static/js/main.f957202c.js",
+    "main.css": "/keyros-academy/static/css/main.2b090ab9.css",
+    "main.js": "/keyros-academy/static/js/main.a144eeb0.js",
+    "static/media/trend trade captures.png": "/keyros-academy/static/media/trend trade captures.c226bba2f1f638a20160.png",
+    "static/media/Basics Course cover.png": "/keyros-academy/static/media/Basics Course cover.a8d4bd9c082054a00e8e.png",
+    "static/media/Backbone OF Cover.png": "/keyros-academy/static/media/Backbone OF Cover.7ab60c56383fc9e61387.png",
     "static/media/portrait3.jpg": "/keyros-academy/static/media/portrait3.99c4f9403a9f2239fbc8.jpg",
-    "static/media/Course1.jpg": "/keyros-academy/static/media/Course1.14f31432b85cd91033f9.jpg",
-    "static/media/Course2.jpg": "/keyros-academy/static/media/Course2.897aef99fd362603904d.jpg",
     "static/media/portrait1.jpg": "/keyros-academy/static/media/portrait1.73bcc4ca5636f56e4461.jpg",
     "static/media/portait4.jpg": "/keyros-academy/static/media/portait4.2e16ac6b2eec50aab16a.jpg",
     "static/media/ceo.jpg": "/keyros-academy/static/media/ceo.3a181e17025c0d32e7fa.jpg",
+    "static/media/logo.jpg": "/keyros-academy/static/media/logo.d30fbbbde4bd18984f98.jpg",
     "static/media/portrait2.jpg": "/keyros-academy/static/media/portrait2.cc4c9c38d5d41ec91e8b.jpg",
     "index.html": "/keyros-academy/index.html",
-    "main.0a0a78e1.css.map": "/keyros-academy/static/css/main.0a0a78e1.css.map",
-    "main.f957202c.js.map": "/keyros-academy/static/js/main.f957202c.js.map"
+    "main.2b090ab9.css.map": "/keyros-academy/static/css/main.2b090ab9.css.map",
+    "main.a144eeb0.js.map": "/keyros-academy/static/js/main.a144eeb0.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a0a78e1.css",
-    "static/js/main.f957202c.js"
+    "static/css/main.2b090ab9.css",
+    "static/js/main.a144eeb0.js"
   ]
 }
