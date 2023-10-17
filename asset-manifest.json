@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/keyros-academy/static/css/main.2b090ab9.css",
-    "main.js": "/keyros-academy/static/js/main.a144eeb0.js",
+    "main.js": "/keyros-academy/static/js/main.d7e2c062.js",
     "static/media/trend trade captures.png": "/keyros-academy/static/media/trend trade captures.c226bba2f1f638a20160.png",
     "static/media/Basics Course cover.png": "/keyros-academy/static/media/Basics Course cover.a8d4bd9c082054a00e8e.png",
     "static/media/Backbone OF Cover.png": "/keyros-academy/static/media/Backbone OF Cover.7ab60c56383fc9e61387.png",
@@ -13,10 +13,10 @@
     "static/media/portrait2.jpg": "/keyros-academy/static/media/portrait2.cc4c9c38d5d41ec91e8b.jpg",
     "index.html": "/keyros-academy/index.html",
     "main.2b090ab9.css.map": "/keyros-academy/static/css/main.2b090ab9.css.map",
-    "main.a144eeb0.js.map": "/keyros-academy/static/js/main.a144eeb0.js.map"
+    "main.d7e2c062.js.map": "/keyros-academy/static/js/main.d7e2c062.js.map"
   },
   "entrypoints": [
     "static/css/main.2b090ab9.css",
-    "static/js/main.a144eeb0.js"
+    "static/js/main.d7e2c062.js"
   ]
 }
