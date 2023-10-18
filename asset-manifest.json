@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/keyros-academy/static/css/main.47487bba.css",
-    "main.js": "/keyros-academy/static/js/main.84b3ea49.js",
+    "main.css": "/keyros-academy/static/css/main.94110d99.css",
+    "main.js": "/keyros-academy/static/js/main.f1894fdb.js",
     "static/media/portrait3.jpg": "/keyros-academy/static/media/portrait3.99c4f9403a9f2239fbc8.jpg",
     "static/media/portrait1.jpg": "/keyros-academy/static/media/portrait1.73bcc4ca5636f56e4461.jpg",
     "static/media/portait4.jpg": "/keyros-academy/static/media/portait4.2e16ac6b2eec50aab16a.jpg",
@@ -13,11 +13,11 @@
     "static/media/logo.jpg": "/keyros-academy/static/media/logo.d30fbbbde4bd18984f98.jpg",
     "static/media/portrait2.jpg": "/keyros-academy/static/media/portrait2.cc4c9c38d5d41ec91e8b.jpg",
     "index.html": "/keyros-academy/index.html",
-    "main.47487bba.css.map": "/keyros-academy/static/css/main.47487bba.css.map",
-    "main.84b3ea49.js.map": "/keyros-academy/static/js/main.84b3ea49.js.map"
+    "main.94110d99.css.map": "/keyros-academy/static/css/main.94110d99.css.map",
+    "main.f1894fdb.js.map": "/keyros-academy/static/js/main.f1894fdb.js.map"
   },
   "entrypoints": [
-    "static/css/main.47487bba.css",
-    "static/js/main.84b3ea49.js"
+    "static/css/main.94110d99.css",
+    "static/js/main.f1894fdb.js"
   ]
 }
