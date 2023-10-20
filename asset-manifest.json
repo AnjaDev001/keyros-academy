@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/keyros-academy/static/css/main.94110d99.css",
-    "main.js": "/keyros-academy/static/js/main.f1894fdb.js",
+    "main.css": "/keyros-academy/static/css/main.7cbd6298.css",
+    "main.js": "/keyros-academy/static/js/main.61a7da53.js",
     "static/media/portrait3.jpg": "/keyros-academy/static/media/portrait3.99c4f9403a9f2239fbc8.jpg",
     "static/media/portrait1.jpg": "/keyros-academy/static/media/portrait1.73bcc4ca5636f56e4461.jpg",
     "static/media/portait4.jpg": "/keyros-academy/static/media/portait4.2e16ac6b2eec50aab16a.jpg",
@@ -9,15 +9,17 @@
     "static/media/Basics Course cover.jpg": "/keyros-academy/static/media/Basics Course cover.48e5132be1f4b70e4b8e.jpg",
     "static/media/forex-trading-software-top-picks-for-your-capital-gain.png": "/keyros-academy/static/media/forex-trading-software-top-picks-for-your-capital-gain.f52b29c1cc1a2cfda8ef.png",
     "static/media/ceo.jpg": "/keyros-academy/static/media/ceo.3a181e17025c0d32e7fa.jpg",
+    "static/media/Conditions d utilisation.pdf": "/keyros-academy/static/media/Conditions d utilisation.4e34835f18219e5bccc7.pdf",
     "static/media/Backbone OF Cover.jpg": "/keyros-academy/static/media/Backbone OF Cover.b9960b98bd991810a14f.jpg",
     "static/media/logo.jpg": "/keyros-academy/static/media/logo.d30fbbbde4bd18984f98.jpg",
+    "static/media/Politique de confidentialité.pdf": "/keyros-academy/static/media/Politique de confidentialité.cfb3c3d510896618d429.pdf",
     "static/media/portrait2.jpg": "/keyros-academy/static/media/portrait2.cc4c9c38d5d41ec91e8b.jpg",
     "index.html": "/keyros-academy/index.html",
-    "main.94110d99.css.map": "/keyros-academy/static/css/main.94110d99.css.map",
-    "main.f1894fdb.js.map": "/keyros-academy/static/js/main.f1894fdb.js.map"
+    "main.7cbd6298.css.map": "/keyros-academy/static/css/main.7cbd6298.css.map",
+    "main.61a7da53.js.map": "/keyros-academy/static/js/main.61a7da53.js.map"
   },
   "entrypoints": [
-    "static/css/main.94110d99.css",
-    "static/js/main.f1894fdb.js"
+    "static/css/main.7cbd6298.css",
+    "static/js/main.61a7da53.js"
   ]
 }
